@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/marcotartaglione">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2196F3&center=true&vCenter=true&width=800&lines=Hi+there,+I'm+Marco+Tartaglione;Computer+Engineering+Student+@+UniBo;I+love+writing+in+C;Web,+Mobile+%26+DB+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2196F3&center=true&vCenter=true&width=800&lines=Hi+there,+I'm+Marco+Tartaglione;Computer+Engineering+Student+%40+UniBo;I+love+writing+in+C;Web,+Mobile+%26+DB+Enthusiast" alt="Typing SVG" />
   </a>
 </div>
 
@@ -19,21 +19,21 @@ typedef struct {
     char* interests[3];
 } MarcoTartaglione;
 
-void buildCoolStuff() {
+void buildCoolStuff(void) {
     printf("I love writing in C and losing my mind on new projects!\n");
 }
 
-int main() {
+int main(void) {
     MarcoTartaglione me = {
-        "Marco Tartaglione",
-        "Castelfranco Emilia, Italy",
-        "Computer Engineering Student @ University of Bologna",
-        {"C", "JavaScript", "TypeScript", "Java", "MySQL", "Python"},
-        {"Mobile Development", "Web Development", "Database Design"}
+        .name = "Marco Tartaglione",
+        .location = "Castelfranco Emilia, Italy",
+        .education = "Computer Engineering Student @ University of Bologna",
+        .languages = {"C", "JavaScript", "TypeScript", "Java", "MySQL", "Python"},
+        .interests = {"Mobile Development", "Web Development", "Database Design"}
     };
-    
+
     buildCoolStuff();
-    
+
     return 0;
 }
 ```
@@ -42,7 +42,7 @@ int main() {
 
 ## 🚀 Quick Stats & What I'm Doing
 
-- 🔭 **Attualmente al lavoro su:** Un clone di **Wolfenstein 3D** (scritto in C) e progetti accademici.
+- 🔭 **Attualmente al lavoro su:** Un [clone di **Wolfenstein 3D**](https://github.com/marcotartaglione/wolfenstein3d) (scritto in C) e al [simulatore DLX-RISCV](https://github.com/marcotartaglione/DLX-RISCV-simulator).
 - 🌱 **Attualmente sto imparando:** Tecniche avanzate di Web/Mobile Development e Database Design.
 - 🎓 **Background:** Diploma in Informatica e Telecomunicazioni, studente di Ingegneria Informatica.
 - 📫 **Come contattarmi:** [LinkedIn](https://www.linkedin.com/in/marco-tartaglione-b9a02623b)
@@ -69,10 +69,18 @@ int main() {
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=marcotartaglione&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Marco's GitHub stats" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=marcotartaglione&layout=compact&theme=tokyonight&hide_border=true" alt="Marco's Top Langs" />
-</p>
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-stats-extended.vercel.app/api?username=marcotartaglione&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Marco's GitHub stats" />
+      </td>
+      <td>
+        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=marcotartaglione&layout=compact&theme=tokyonight&hide_border=true" alt="Marco's Top Langs" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 <p align="center">
