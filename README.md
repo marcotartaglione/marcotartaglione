@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Marco+Tartaglione+👋;Computer+Engineering+Student+@+UniBo;I+love+writing+in+C;Web,+Mobile+%26+DB+Enthusiast" alt="Typing SVG" />
+  <a href="https://github.com/marcotartaglione">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2196F3&center=true&vCenter=true&width=800&lines=Hi+there,+I'm+Marco+Tartaglione;Computer+Engineering+Student+@+UniBo;I+love+writing+in+C;Web,+Mobile+%26+DB+Enthusiast" alt="Typing SVG" />
+  </a>
 </div>
 
 <br/>
@@ -49,30 +51,30 @@ int main() {
 
 ## 🛠️ Tecnologie & Linguaggi
 
-<div align="left">
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" title="C" />
-  <img width="12" />
+  &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" title="JavaScript" />
-  <img width="12" />
+  &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" title="TypeScript" />
-  <img width="12" />
+  &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" title="Java" />
-  <img width="12" />
+  &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="MySQL" title="MySQL" />
-  <img width="12" />
+  &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" title="Python" />
-</div>
+</p>
 
 <br/>
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marcotartaglione&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Marco's GitHub stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcotartaglione&layout=compact&theme=tokyonight&hide_border=true" alt="Marco's Top Langs" width="48%" />
-</div>
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=marcotartaglione&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Marco's GitHub stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=marcotartaglione&layout=compact&theme=tokyonight&hide_border=true" alt="Marco's Top Langs" />
+</p>
 
 ---
-<div align="center">
+<p align="center">
   <i>"Losing my mind on new projects, one line of C at a time."</i>
-</div>
+</p>
